@@ -4,7 +4,16 @@ subject: 'cat:quant-ph'
 # 検索キーワード
 keywords:
         grover: 3
-        entanglment: 1
+        entanglment: 3
+        algorithm: 2
+        shor: 2
+        multipartite: 2
+        entropy: 1
+        coherent: 1
+        machine: 1
+        fourier: 1
+        quantum: 1
+        dynamical: 1
 
 # 通知の閾値
 score_threshold: 0
